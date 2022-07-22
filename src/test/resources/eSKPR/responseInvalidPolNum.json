@@ -1,0 +1,7 @@
+{
+    "error_code": "ESB-14-014",
+    "error_message": {
+        "indonesian": "ChannelID/CredentialID tidak valid",
+        "english": "ChannelID/CredentialID invalid"
+    }
+}
